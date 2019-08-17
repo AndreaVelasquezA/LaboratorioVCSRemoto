@@ -1,6 +1,7 @@
-a=int(input("digite el primer numero:"))
-c=int(input("digite el segundo numero:"))
-mult=(a*c)
-dobl=(a*2)
-print("el producto de los numeros es:",mult)
-print("el doble del primer numero es:",dobl)
+b=int(input("digite el primer numero:"))
+d=int(input("digite el segundo numero:"))
+mult=(b+b)
+import math
+raiz=(math.sqrt(d))
+print("el cuadrado del primer numero es:",mult)
+print("la raiz cuadrada del segundo numero es:",raiz)
