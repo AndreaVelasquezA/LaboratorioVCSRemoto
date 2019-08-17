@@ -1,0 +1,6 @@
+a=int(input("digite el primer numero:"))
+c=int(input("digite el segundo numero:"))
+mult=(a*c)
+dobl=(a*2)
+print("el producto de los numeros es:",mult)
+print("el doble del primer numero es:",dobl)
